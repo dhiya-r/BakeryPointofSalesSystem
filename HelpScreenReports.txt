@@ -1,0 +1,16 @@
+Welcome to the Help Screen!
+
+The purpose of the Reports screen is to display different statistics that can be printed.
+
+If you are experiencing difficulties please read the instructions below:
+
+1) To display the daily sales click on the Sales For The Day button.
+
+2) To display a products selling price you must click on the Product Selling Price Button.
+
+3) To display the most expensive items click on the Most Expensive Items button.
+
+4) To display a users daily sales click on the User's Daily Sales button. 
+
+5) If you wish to print any of these then you will display them by clicking on the button 
+   and then you will click on print. 

@@ -1,0 +1,46 @@
+Welcome to the Help Screen!
+
+The purpose of the Users screen is to allow the user to add, edit and delete users
+depending on your user level. 
+
+If you are experiencing difficulties please read the instructions below:
+
+1. Navigation:
+   - Navigation allows you to scroll through the table by using the buttons labelled 
+     first, previous, next and Last.
+
+2. Details:
+   - Details allows you to view the details of a specific row that you have selected 
+     from the table in navigation. 
+   - It is also where you will enter the values to add or edit a user.
+
+3. Search:
+   - Search allows you to search for a specific product using either Username, User 
+     Level or User Status.
+   - To Search:
+     a) Click on either the Username, User Level or User Status field.
+     b) Enter the value that you want to search for.
+     c) Click on the search and your results will appear in the table located in 
+        Navigation.
+
+4. Options and Save Options:
+   - Add, Save New and Cancel:
+     - Add is located in Options and allows you at add a user. 
+     - To add a user you:
+       a) Click on the add button.
+       b) Enter the values in the details panel. 
+       c) Click save new (located in Save Options) to save the new user.
+       d) If you decide to not add the user you can click on the Cancel button located
+          in Save Options
+   - Edit, Save Edit and Cancel:
+     - Edit is located in Options and allows you to edit a user. 
+     - To edit a user you:
+       a) Click on the edit button. 
+       b) Enter the values that you want to change.
+       c) Click on Save Edit (located in Save Options) to save the changes made.
+       d) If you decide to not edit the user then you can click on the Cancel button 
+          located in Save Options.
+   - Delete:
+     - Delete allows you to delete a user.
+     - To delete a user you:
+        a) Click on the Delete button in Options.

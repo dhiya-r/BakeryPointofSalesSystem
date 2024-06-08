@@ -1,0 +1,19 @@
+Welcome to the Help Screen!
+
+The purpose of the Sales screen is to record sales made. 
+
+If you are experiencing difficulties please read the instructions below:
+
+1) Select the amount that has been sold.
+
+2) Click on a row in the stock table. 
+    - It will appear in the stock table.
+
+3) Click on the total button to get the total cost.
+   - If you wish to remove any items click on the remove button. 
+
+4) Enter the amount they have given you in the amount field. 
+
+5) Click on record sales to record the sale.
+
+6) Click on Record Stock Sold to record the stock sold.

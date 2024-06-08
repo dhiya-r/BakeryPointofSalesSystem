@@ -1,0 +1,29 @@
+Welcome to the Help Screen!
+
+The Main Menu (which serves as a start up page) provides the user with a set of options
+to help the user find a specific screen.
+
+If you are experiencing difficulties please follow the steps below:
+
+Steps to Follow:
+
+1. Select the screen that you want to go to. 
+   - Depending on your user level you may not be able to access all screens.
+
+2. The screens that you can access depending on your user level are:
+
+   - User Level 1: Users
+                   Products
+                   Change Password
+
+   - User Level 2: Users
+                   Products
+                   Items
+                   Change Password
+                   
+   - User Level 3: Users
+                   Products
+                   Items
+                   Sales
+                   Reports
+                   Change Password
